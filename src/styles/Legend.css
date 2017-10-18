@@ -1,0 +1,17 @@
+.Legend {
+    height: 100%;
+    width: 100%;
+    /*background: #ddd;*/
+    padding: 4px;
+    /*border: 2px solid #ccc;*/
+    /*border-radius: 4px;*/
+}
+
+.Legend .legendCells text {
+    /*font-size: 85%;*/
+    font-size: 0.85em;
+}
+
+.Legend svg {
+    height: 70px;
+}

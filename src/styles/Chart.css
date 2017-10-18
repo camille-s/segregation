@@ -1,0 +1,8 @@
+.Chart path.tick-line {
+	stroke: #bbb;
+	stroke-width: 1px;
+}
+
+.Chart g.axis-labels {
+	font-size: 0.9em;
+}
